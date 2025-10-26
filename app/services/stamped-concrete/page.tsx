@@ -98,7 +98,7 @@ export default function ServicePage() {
                 
                 <div className="relative aspect-square rounded-lg overflow-hidden shadow-lg">
                   <Image
-                    src="https://qsaefjpdhmcwuiytcvan.supabase.co/storage/v1/object/public/portfolio-photos/home-service-pro/1761501828245-go9qy.webp"
+                    src="https://qsaefjpdhmcwuiytcvan.supabase.co/storage/v1/object/public/portfolio-photos/home-service-pro/1761505732192-xsw0uo.webp"
                     alt="Stamped Concrete example 1"
                     fill
                     className="object-cover"
@@ -108,18 +108,8 @@ export default function ServicePage() {
                 
                 <div className="relative aspect-square rounded-lg overflow-hidden shadow-lg">
                   <Image
-                    src="https://qsaefjpdhmcwuiytcvan.supabase.co/storage/v1/object/public/portfolio-photos/home-service-pro/1761501828777-xdcibr.webp"
+                    src="https://qsaefjpdhmcwuiytcvan.supabase.co/storage/v1/object/public/portfolio-photos/home-service-pro/1761505732908-pngmkj.webp"
                     alt="Stamped Concrete example 2"
-                    fill
-                    className="object-cover"
-                    loading="lazy"
-                  />
-                </div>
-                
-                <div className="relative aspect-square rounded-lg overflow-hidden shadow-lg">
-                  <Image
-                    src="https://qsaefjpdhmcwuiytcvan.supabase.co/storage/v1/object/public/portfolio-photos/home-service-pro/1761501829322-c5sa2xo.webp"
-                    alt="Stamped Concrete example 3"
                     fill
                     className="object-cover"
                     loading="lazy"

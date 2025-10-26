@@ -3,12 +3,12 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: `Concrete Guys – Concrete in Nashville, TN`,
-  description: `Trusted Concrete specialists serving Nashville. Our team delivers professional concrete services you can count on.. Free estimates. 615-300-6767.`,
+  description: `Nashville's premier Concrete company. Count on us for professional concrete services backed by years of experience.. Licensed, insured, experienced. 615-300-...`,
   keywords: 'Concrete, Nashville, TN, Concrete Driveways, Concrete Patios, Sidewalk Installation, Foundation Work, Concrete Repair',
   authors: [{ name: `Concrete Guys` }],
   openGraph: {
     title: `Concrete Guys – Concrete in Nashville, TN`,
-    description: `Trusted Concrete specialists serving Nashville. Our team delivers professional concrete services you can count on.. Free estimates. 615-300-6767.`,
+    description: `Nashville's premier Concrete company. Count on us for professional concrete services backed by years of experience.. Licensed, insured, experienced. 615-300-...`,
     type: 'website',
     locale: 'en_US',
     siteName: `Concrete Guys`,
@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   twitter: {
     card: 'summary_large_image',
     title: `Concrete Guys – Concrete in Nashville, TN`,
-    description: `Trusted Concrete specialists serving Nashville. Our team delivers professional concrete services you can count on.. Free estimates. 615-300-6767.`,
+    description: `Nashville's premier Concrete company. Count on us for professional concrete services backed by years of experience.. Licensed, insured, experienced. 615-300-...`,
   },
   robots: {
     index: true,

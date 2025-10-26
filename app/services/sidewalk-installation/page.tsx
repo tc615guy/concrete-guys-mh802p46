@@ -7,10 +7,10 @@ import ContactForm from '@/components/ContactForm'
 
 export const metadata: Metadata = {
   title: `Sidewalk Installation in Nashville, TN | Concrete Guys`,
-  description: `Expert sidewalk installation services in Nashville by Concrete Guys. Quality work, fair prices, and customer satisfaction guaranteed.`,
+  description: `Looking for sidewalk installation in Nashville? Concrete Guys provides reliable, professional service with attention to detail and competitive pricing.`,
   openGraph: {
     title: `Sidewalk Installation in Nashville, TN`,
-    description: `Expert sidewalk installation services in Nashville by Concrete Guys. Quality work, fair prices, and customer satisfaction guaranteed.`,
+    description: `Looking for sidewalk installation in Nashville? Concrete Guys provides reliable, professional service with attention to detail and competitive pricing.`,
     type: 'website',
   },
 }
@@ -46,7 +46,7 @@ export default function ServicePage() {
                 Sidewalk Installation
               </h1>
               <p className="text-xl text-gray-600 mb-8">
-                Expert sidewalk installation services in Nashville by Concrete Guys. Quality work, fair prices, and customer satisfaction guaranteed.
+                Looking for sidewalk installation in Nashville? Concrete Guys provides reliable, professional service with attention to detail and competitive pricing.
               </p>
               
               <div className="flex flex-col sm:flex-row gap-4 mb-8">
@@ -98,7 +98,7 @@ export default function ServicePage() {
                 
                 <div className="relative aspect-square rounded-lg overflow-hidden shadow-lg">
                   <Image
-                    src="https://qsaefjpdhmcwuiytcvan.supabase.co/storage/v1/object/public/portfolio-photos/home-service-pro/1761501828245-go9qy.webp"
+                    src="https://qsaefjpdhmcwuiytcvan.supabase.co/storage/v1/object/public/portfolio-photos/home-service-pro/1761505732192-xsw0uo.webp"
                     alt="Sidewalk Installation example 1"
                     fill
                     className="object-cover"
@@ -108,18 +108,8 @@ export default function ServicePage() {
                 
                 <div className="relative aspect-square rounded-lg overflow-hidden shadow-lg">
                   <Image
-                    src="https://qsaefjpdhmcwuiytcvan.supabase.co/storage/v1/object/public/portfolio-photos/home-service-pro/1761501828777-xdcibr.webp"
+                    src="https://qsaefjpdhmcwuiytcvan.supabase.co/storage/v1/object/public/portfolio-photos/home-service-pro/1761505732908-pngmkj.webp"
                     alt="Sidewalk Installation example 2"
-                    fill
-                    className="object-cover"
-                    loading="lazy"
-                  />
-                </div>
-                
-                <div className="relative aspect-square rounded-lg overflow-hidden shadow-lg">
-                  <Image
-                    src="https://qsaefjpdhmcwuiytcvan.supabase.co/storage/v1/object/public/portfolio-photos/home-service-pro/1761501829322-c5sa2xo.webp"
-                    alt="Sidewalk Installation example 3"
                     fill
                     className="object-cover"
                     loading="lazy"
