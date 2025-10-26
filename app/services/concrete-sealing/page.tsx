@@ -7,10 +7,10 @@ import ContactForm from '@/components/ContactForm'
 
 export const metadata: Metadata = {
   title: `Concrete Sealing in Nashville, TN | Concrete Guys`,
-  description: `Professional concrete sealing services in Nashville. Concrete Guys delivers expert results with quality workmanship and customer satisfaction guaranteed.`,
+  description: `Looking for concrete sealing in Nashville? Concrete Guys provides reliable, professional service with attention to detail and competitive pricing.`,
   openGraph: {
     title: `Concrete Sealing in Nashville, TN`,
-    description: `Professional concrete sealing services in Nashville. Concrete Guys delivers expert results with quality workmanship and customer satisfaction guaranteed.`,
+    description: `Looking for concrete sealing in Nashville? Concrete Guys provides reliable, professional service with attention to detail and competitive pricing.`,
     type: 'website',
   },
 }
@@ -46,7 +46,7 @@ export default function ServicePage() {
                 Concrete Sealing
               </h1>
               <p className="text-xl text-gray-600 mb-8">
-                Professional concrete sealing services in Nashville. Concrete Guys delivers expert results with quality workmanship and customer satisfaction guaranteed.
+                Looking for concrete sealing in Nashville? Concrete Guys provides reliable, professional service with attention to detail and competitive pricing.
               </p>
               
               <div className="flex flex-col sm:flex-row gap-4 mb-8">
@@ -98,7 +98,7 @@ export default function ServicePage() {
                 
                 <div className="relative aspect-square rounded-lg overflow-hidden shadow-lg">
                   <Image
-                    src="https://qsaefjpdhmcwuiytcvan.supabase.co/storage/v1/object/public/portfolio-photos/home-service-pro/1761495768274-9ap0eqi.webp"
+                    src="https://qsaefjpdhmcwuiytcvan.supabase.co/storage/v1/object/public/portfolio-photos/home-service-pro/1761501828245-go9qy.webp"
                     alt="Concrete Sealing example 1"
                     fill
                     className="object-cover"
@@ -108,7 +108,7 @@ export default function ServicePage() {
                 
                 <div className="relative aspect-square rounded-lg overflow-hidden shadow-lg">
                   <Image
-                    src="https://qsaefjpdhmcwuiytcvan.supabase.co/storage/v1/object/public/portfolio-photos/home-service-pro/1761495769078-fivjj7.webp"
+                    src="https://qsaefjpdhmcwuiytcvan.supabase.co/storage/v1/object/public/portfolio-photos/home-service-pro/1761501828777-xdcibr.webp"
                     alt="Concrete Sealing example 2"
                     fill
                     className="object-cover"
@@ -118,7 +118,7 @@ export default function ServicePage() {
                 
                 <div className="relative aspect-square rounded-lg overflow-hidden shadow-lg">
                   <Image
-                    src="https://qsaefjpdhmcwuiytcvan.supabase.co/storage/v1/object/public/portfolio-photos/home-service-pro/1761495769435-s72wh6.webp"
+                    src="https://qsaefjpdhmcwuiytcvan.supabase.co/storage/v1/object/public/portfolio-photos/home-service-pro/1761501829322-c5sa2xo.webp"
                     alt="Concrete Sealing example 3"
                     fill
                     className="object-cover"

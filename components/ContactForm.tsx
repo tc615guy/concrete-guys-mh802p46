@@ -21,16 +21,30 @@ export default function ContactForm({ servicePreselect }: ContactFormProps) {
     setStatus('sending')
 
     try {
-      // In production, this would send to your email service
-      // For now, we'll simulate a successful submission
-      await new Promise(resolve => setTimeout(resolve, 1000))
-      
-      setStatus('success')
-      setFormData({ name: '', email: '', phone: '', service: servicePreselect || '', message: '' })
-      
-      // Reset status after 5 seconds
-      setTimeout(() => setStatus('idle'), 5000)
+      const response = await fetch('/api/contact-form', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          name: formData.name,
+          email: formData.email,
+          phone: formData.phone,
+          service: formData.service,
+          message: formData.message,
+          businessEmail: 'email@concreteguys.com',
+          businessName: 'Concrete Guys'
+        })
+      })
+
+      if (response.ok) {
+        setStatus('success')
+        setFormData({ name: '', email: '', phone: '', service: servicePreselect || '', message: '' })
+        setTimeout(() => setStatus('idle'), 5000)
+      } else {
+        setStatus('error')
+        setTimeout(() => setStatus('idle'), 5000)
+      }
     } catch (error) {
+      console.error('Contact form error:', error)
       setStatus('error')
       setTimeout(() => setStatus('idle'), 5000)
     }

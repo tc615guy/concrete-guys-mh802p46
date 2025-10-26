@@ -59,12 +59,12 @@ export default function Footer() {
         <div className="border-t border-gray-800 pt-8 pb-4">
           <div className="flex flex-wrap justify-center items-center gap-6 mb-6">
             <div className="bg-white/10 p-3 rounded-lg">
-                    <img src="https://qsaefjpdhmcwuiytcvan.supabase.co/storage/v1/object/public/portfolio-photos/home-service-pro/1761495732720-r0fmya.webp" alt="Certification" className="h-10 w-auto object-contain opacity-80 hover:opacity-100 transition" />
+                    <img src="https://qsaefjpdhmcwuiytcvan.supabase.co/storage/v1/object/public/portfolio-photos/home-service-pro/1761501819628-uikc7j.webp" alt="Certification" className="h-10 w-auto object-contain opacity-80 hover:opacity-100 transition" />
                   </div><div className="bg-white/10 p-3 rounded-lg">
-                    <img src="https://qsaefjpdhmcwuiytcvan.supabase.co/storage/v1/object/public/portfolio-photos/home-service-pro/1761495732917-qzmc3.webp" alt="Certification" className="h-10 w-auto object-contain opacity-80 hover:opacity-100 transition" />
+                    <img src="https://qsaefjpdhmcwuiytcvan.supabase.co/storage/v1/object/public/portfolio-photos/home-service-pro/1761501819995-0y3txh.webp" alt="Certification" className="h-10 w-auto object-contain opacity-80 hover:opacity-100 transition" />
                   </div>
             <div className="bg-white/10 p-3 rounded-lg">
-                    <img src="https://qsaefjpdhmcwuiytcvan.supabase.co/storage/v1/object/public/portfolio-photos/home-service-pro/1761495787258-glrl7.webp" alt="Financing Partner" className="h-10 w-auto object-contain opacity-80 hover:opacity-100 transition" />
+                    <img src="https://qsaefjpdhmcwuiytcvan.supabase.co/storage/v1/object/public/portfolio-photos/home-service-pro/1761501837772-g69hi.webp" alt="Financing Partner" className="h-10 w-auto object-contain opacity-80 hover:opacity-100 transition" />
                   </div>
             
             <a href="https://g.page/concreteguys" target="_blank" rel="noopener noreferrer" className="bg-white/10 p-3 rounded-lg hover:bg-white/20 transition flex items-center space-x-2">
