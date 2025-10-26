@@ -7,10 +7,10 @@ import ContactForm from '@/components/ContactForm'
 
 export const metadata: Metadata = {
   title: `Concrete Repair in Nashville, TN | Concrete Guys`,
-  description: `Concrete Guys offers comprehensive concrete repair throughout Nashville. Licensed, insured, and committed to excellence on every project.`,
+  description: `Trust Concrete Guys for all your concrete repair needs in Nashville. Professional service, experienced team, exceptional results.`,
   openGraph: {
     title: `Concrete Repair in Nashville, TN`,
-    description: `Concrete Guys offers comprehensive concrete repair throughout Nashville. Licensed, insured, and committed to excellence on every project.`,
+    description: `Trust Concrete Guys for all your concrete repair needs in Nashville. Professional service, experienced team, exceptional results.`,
     type: 'website',
   },
 }
@@ -46,7 +46,7 @@ export default function ServicePage() {
                 Concrete Repair
               </h1>
               <p className="text-xl text-gray-600 mb-8">
-                Concrete Guys offers comprehensive concrete repair throughout Nashville. Licensed, insured, and committed to excellence on every project.
+                Trust Concrete Guys for all your concrete repair needs in Nashville. Professional service, experienced team, exceptional results.
               </p>
               
               <div className="flex flex-col sm:flex-row gap-4 mb-8">

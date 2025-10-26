@@ -7,10 +7,10 @@ import ContactForm from '@/components/ContactForm'
 
 export const metadata: Metadata = {
   title: `Stamped Concrete in Nashville, TN | Concrete Guys`,
-  description: `Expert stamped concrete services in Nashville by Concrete Guys. Quality work, fair prices, and customer satisfaction guaranteed.`,
+  description: `Trust Concrete Guys for all your stamped concrete needs in Nashville. Professional service, experienced team, exceptional results.`,
   openGraph: {
     title: `Stamped Concrete in Nashville, TN`,
-    description: `Expert stamped concrete services in Nashville by Concrete Guys. Quality work, fair prices, and customer satisfaction guaranteed.`,
+    description: `Trust Concrete Guys for all your stamped concrete needs in Nashville. Professional service, experienced team, exceptional results.`,
     type: 'website',
   },
 }
@@ -46,7 +46,7 @@ export default function ServicePage() {
                 Stamped Concrete
               </h1>
               <p className="text-xl text-gray-600 mb-8">
-                Expert stamped concrete services in Nashville by Concrete Guys. Quality work, fair prices, and customer satisfaction guaranteed.
+                Trust Concrete Guys for all your stamped concrete needs in Nashville. Professional service, experienced team, exceptional results.
               </p>
               
               <div className="flex flex-col sm:flex-row gap-4 mb-8">

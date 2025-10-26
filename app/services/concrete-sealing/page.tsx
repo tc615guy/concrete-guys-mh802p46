@@ -7,10 +7,10 @@ import ContactForm from '@/components/ContactForm'
 
 export const metadata: Metadata = {
   title: `Concrete Sealing in Nashville, TN | Concrete Guys`,
-  description: `Looking for concrete sealing in Nashville? Concrete Guys provides reliable, professional service with attention to detail and competitive pricing.`,
+  description: `Concrete Guys offers comprehensive concrete sealing throughout Nashville. Licensed, insured, and committed to excellence on every project.`,
   openGraph: {
     title: `Concrete Sealing in Nashville, TN`,
-    description: `Looking for concrete sealing in Nashville? Concrete Guys provides reliable, professional service with attention to detail and competitive pricing.`,
+    description: `Concrete Guys offers comprehensive concrete sealing throughout Nashville. Licensed, insured, and committed to excellence on every project.`,
     type: 'website',
   },
 }
@@ -46,7 +46,7 @@ export default function ServicePage() {
                 Concrete Sealing
               </h1>
               <p className="text-xl text-gray-600 mb-8">
-                Looking for concrete sealing in Nashville? Concrete Guys provides reliable, professional service with attention to detail and competitive pricing.
+                Concrete Guys offers comprehensive concrete sealing throughout Nashville. Licensed, insured, and committed to excellence on every project.
               </p>
               
               <div className="flex flex-col sm:flex-row gap-4 mb-8">

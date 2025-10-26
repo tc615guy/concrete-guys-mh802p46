@@ -15,7 +15,7 @@ export default function Header() {
           <Link href="/" className="flex items-center space-x-6">
             
             <img
-              src="https://qsaefjpdhmcwuiytcvan.supabase.co/storage/v1/object/public/portfolio-photos/home-service-pro/logo-1761501791785-o6vad9.webp"
+              src="https://qsaefjpdhmcwuiytcvan.supabase.co/storage/v1/object/public/portfolio-photos/home-service-pro/logo-1761502062979-bbsg9j.webp"
               alt="Concrete Guys"
               className="h-20 w-auto transition-transform hover:scale-105"
               loading="eager"

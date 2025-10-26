@@ -7,10 +7,10 @@ import ContactForm from '@/components/ContactForm'
 
 export const metadata: Metadata = {
   title: `Foundation Work in Nashville, TN | Concrete Guys`,
-  description: `Professional foundation work services in Nashville. Concrete Guys delivers expert results with quality workmanship and customer satisfaction guaranteed.`,
+  description: `Trust Concrete Guys for all your foundation work needs in Nashville. Professional service, experienced team, exceptional results.`,
   openGraph: {
     title: `Foundation Work in Nashville, TN`,
-    description: `Professional foundation work services in Nashville. Concrete Guys delivers expert results with quality workmanship and customer satisfaction guaranteed.`,
+    description: `Trust Concrete Guys for all your foundation work needs in Nashville. Professional service, experienced team, exceptional results.`,
     type: 'website',
   },
 }
@@ -46,7 +46,7 @@ export default function ServicePage() {
                 Foundation Work
               </h1>
               <p className="text-xl text-gray-600 mb-8">
-                Professional foundation work services in Nashville. Concrete Guys delivers expert results with quality workmanship and customer satisfaction guaranteed.
+                Trust Concrete Guys for all your foundation work needs in Nashville. Professional service, experienced team, exceptional results.
               </p>
               
               <div className="flex flex-col sm:flex-row gap-4 mb-8">
