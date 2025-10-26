@@ -22,7 +22,7 @@ export async function POST(request: NextRequest) {
       const businessEmailResult = await resend.emails.send({
         from: 'AutoTaco Contact Form <noreply@autotaco.io>',
         to: businessEmail,
-        replyTo: email,
+        reply_to: email,
         subject: `New Contact Form Submission from ${name}`,
         html: `
           <div style="font-family: Arial, sans-serif; max-width: 600px; margin: 0 auto;">

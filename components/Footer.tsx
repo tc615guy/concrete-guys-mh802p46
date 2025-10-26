@@ -18,7 +18,7 @@ export default function Footer() {
           <div>
             <h3 className="text-xl font-bold mb-4">Contact</h3>
             <a href="tel:6153006767" className="text-gray-400 hover:text-white transition block mb-2">615-300-6767</a>
-            <a href="mailto:email@concreteguys.com" className="text-gray-400 hover:text-white transition block">email@concreteguys.com</a>
+            <a href="mailto:joshlanius@yahoo.com" className="text-gray-400 hover:text-white transition block">joshlanius@yahoo.com</a>
           </div>
           <div>
             <h3 className="text-xl font-bold mb-4">Follow Us</h3>

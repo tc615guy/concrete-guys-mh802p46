@@ -30,7 +30,7 @@ export default function ContactForm({ servicePreselect }: ContactFormProps) {
           phone: formData.phone,
           service: formData.service,
           message: formData.message,
-          businessEmail: 'email@concreteguys.com',
+          businessEmail: 'joshlanius@yahoo.com',
           businessName: 'Concrete Guys'
         })
       })

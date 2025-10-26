@@ -7,10 +7,10 @@ import ContactForm from '@/components/ContactForm'
 
 export const metadata: Metadata = {
   title: `Decorative Concrete in Nashville, TN | Concrete Guys`,
-  description: `Looking for decorative concrete in Nashville? Concrete Guys provides reliable, professional service with attention to detail and competitive pricing.`,
+  description: `Professional decorative concrete services in Nashville. Concrete Guys delivers expert results with quality workmanship and customer satisfaction guaranteed.`,
   openGraph: {
     title: `Decorative Concrete in Nashville, TN`,
-    description: `Looking for decorative concrete in Nashville? Concrete Guys provides reliable, professional service with attention to detail and competitive pricing.`,
+    description: `Professional decorative concrete services in Nashville. Concrete Guys delivers expert results with quality workmanship and customer satisfaction guaranteed.`,
     type: 'website',
   },
 }
@@ -46,7 +46,7 @@ export default function ServicePage() {
                 Decorative Concrete
               </h1>
               <p className="text-xl text-gray-600 mb-8">
-                Looking for decorative concrete in Nashville? Concrete Guys provides reliable, professional service with attention to detail and competitive pricing.
+                Professional decorative concrete services in Nashville. Concrete Guys delivers expert results with quality workmanship and customer satisfaction guaranteed.
               </p>
               
               <div className="flex flex-col sm:flex-row gap-4 mb-8">
